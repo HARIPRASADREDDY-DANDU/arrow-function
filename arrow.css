@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to top left,rgb(7, 166, 7) ,rgb(182, 5, 5));
+}
+h1{
+    color: aqua;
+}
